@@ -1,0 +1,21 @@
+.bg-container{
+    background-image: url("https://wallpapercave.com/wp/h0Z04VL.jpg");
+    background-size: cover;
+    text-align: center;
+}
+.movie-card{
+    padding: 20px;
+    margin: 20px;
+}
+.movie-title{
+    font-family: "Brush Script MT", cursive;
+    font-size: 55px;
+    color: orange;
+    padding: 25px;
+   }
+.movie-image{
+    height: 350px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 10px;
+    }
